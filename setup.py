@@ -9,10 +9,9 @@ with open("requirements.txt") as requirements:
 setup(
     name="savings_tracker",
     version="0.0.1",
-    license="MIT",
-    url="https://github.com/Caligatio/savings-tracker",
-    author="Brian Turek",
-    author_email="brian.turek@gmail.com",
+    url="https://github.com/Parvezkhan0/Saving-Tracker",
+    author="Parvez Khan",
+    author_email="parvezkhan0802@gmail.com",
     description="Simple script to help track progress towards savings goals",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -21,7 +20,6 @@ setup(
     python_requires=">=3.6",
     install_requires=install_requires,
     classifiers=[
-        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Programming Language :: Python :: 3",
     ],
