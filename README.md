@@ -12,7 +12,7 @@ The Savings Goals Tracker is a simple Python script that helps you keep track of
 
 ## Usage
 
-1. **Installation:**
+1. **Installation:** 
 
     - Make sure you have Python installed on your system.
 
